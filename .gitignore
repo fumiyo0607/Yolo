@@ -1,6 +1,7 @@
 # Python bytecode
 *.pyc
 
+# DS
 *.DS_Store
 
 # Weight files
